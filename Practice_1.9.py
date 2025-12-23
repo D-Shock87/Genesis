@@ -12,5 +12,6 @@ for i in range(2, 3001):
     if prime == True:
         count_prime += 1
         print(f"{i} es un número primo")
+#Línea 14 genera una lista con todos los números primos en el rango provisto.
 
 print(f"En 3,000 números, existen {count_prime} que son primos.")
