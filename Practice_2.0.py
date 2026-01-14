@@ -18,4 +18,4 @@ while True:
     elif num % 7 == 0:
         print("¡Eso es un Buzz!")
     else:
-        print(f"Ingresaste {num}, ¡Intenta de nuevo!")
+        print(f"Ingresaste {num}. ¡Intenta de nuevo!")
