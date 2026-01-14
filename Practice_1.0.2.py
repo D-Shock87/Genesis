@@ -1,4 +1,8 @@
-#Prueba
+#Ejercicio de validación
+#Uso de definición de funciones
+#Uso de funciones con argumentos/parámetros
+#Uso de argumentos con entrada del usuario
+
 x = input("Please enter username: ")
 y = input("Please enter password: ")
 
